@@ -83,7 +83,7 @@ Made with [contributors-img](https://contrib.rocks).
 ## Questions
 My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/just-tech-news.
 
-The Github page for this project can be accessed using the following link: https://jdeschat.github.io/Team_profile_generator/. This application is deployed on Heroku: https://just-tech-news-12.herokuapp.com/
+The Github page for this project can be accessed using the following link: https://jdeschat.github.io/just-tech-news/. This application is deployed on Heroku: https://just-tech-news-12.herokuapp.com/
 
 You can reach me at jdeschat@gmail.com with additional questions.
 
